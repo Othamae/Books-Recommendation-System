@@ -1,0 +1,158 @@
+RANK;TITLE;AUTHOR;Genre
+1.;Don Quixote;Miguel de Cervantes;Action and adventure
+3.;The Adventures of Huckleberry Finn;Mark Twain;Action and adventure
+4.;The Adventures of Tom Sawyer;Mark Twain;Action and adventure
+5.;Treasure Island;Robert Louis Stevenson;Action and adventure
+36.;The Call of the Wild;Jack London;Action and adventure
+82.;White Fang;Jack London;Action and adventure
+119.;Around the World in Eighty Days;Jules Verne;Action and adventure
+241.;Stuart Little;E.B. White;Action and adventure
+387.;The Incredible Journey;Sheila Burnford;Action and adventure
+412.;King Solomon's Mines;H. Rider Haggard;Action and adventure
+439.;Julie of the Wolves;Jean Craighead George;Action and adventure
+12.;The Pilgrim's Progress;John Bunyan;Allegories
+50.;The Old Man and the Sea;Ernest Hemingway;Allegories
+69.;The Trial;Franz Kafka;Allegories
+155.;The Castle;Franz Kafka;Allegories
+175.;Eugénie Grandet;Honoré de Balzac;Allegories
+117.;On the Road;Jack Kerouac;Autobiographical
+203.;Remembrance of Things Past;Marcel Proust;Autobiographical
+268.;Swann's Way;Marcel Proust;Autobiographical
+360.;The Long Winter;Laura Ingalls Wilder;Autobiographical
+369.;By the Shores of Silver Lake;Laura Ingalls Wilder;Autobiographical
+17.;Great Expectations;Charles Dickens;Coming of Age
+67.;The Red & the Black;Stendhal;Coming of Age
+72.;The Catcher in the Rye;J.D. Salinger;Coming of Age
+100.;P?re Goriot;Honoré de Balzac;Coming of Age
+135.;Nicholas Nickleby;Charles Dickens;Coming of Age
+157.;The Magic Mountain (Der Zauberberg);Thomas Mann;Coming of Age
+174.;This Side of Paradise;F. Scott Fitzgerald;Coming of Age
+213.;The Bluest Eye;Toni Morrison;Coming of Age
+284.;Where the Red Fern Grows;Wilson Rawls;Coming of Age
+313.;The House on Mango Street;Sandra Cisneros;Coming of Age
+314.;Go Tell It on the Mountain;James Baldwin;Coming of Age
+366.;Old Yeller;Fred Gipson;Coming of Age
+417.;The Cider House Rules;John Irving;Coming of Age
+455.;Sophie's Choice;William Styron;Coming of Age
+456.;Looking for Alaska;John Green;Coming of Age
+2.;Alice's Adventures in Wonderland;Lewis Carroll;Fantasy
+11.;Gulliver's Travels;Jonathan Swift;Fantasy
+30.;The Wizard of Oz;L. Frank Baum;Fantasy
+39.;The Wind in the Willows;Kenneth Grahame;Fantasy
+51.;The Lion, the Witch, and the Wardrobe;C.S. Lewis;Fantasy
+59.;Peter Pan;J.M. Barrie;Fantasy
+81.;A Connecticut Yankee in King Arthur's Court;Mark Twain;Fantasy
+97.;Charlotte's Web;E.B. White;Fantasy
+103.;Harry Potter and the Prisoner of Azkaban;J.K. Rowling;Fantasy
+106.;Harry Potter and the Goblet of Fire;J.K. Rowling;Fantasy
+110.;The Two Towers;J.R.R. Tolkien;Fantasy
+125.;Harry Potter and the Order of the Phoenix;J.K. Rowling;Fantasy
+153.;The Last Battle;C.S. Lewis;Fantasy
+172.;The Silver Chair;C.S. Lewis;Fantasy
+179.;Harry Potter and the Deathly Hallows;J.K. Rowling;Fantasy
+188.;Through the Looking-Glass, and What Alice Found There;Lewis Carroll;Fantasy
+237.;The Silmarillion;J.R.R. Tolkien;Fantasy
+274.;Eragon;Christopher Paolini;Fantasy
+325.;The Lightning Thief;Rick Riordan;Fantasy
+345.;Mary Poppins;P.L. Travers;Fantasy
+346.;Artemis Fowl;Eoin Colfer;Fantasy
+364.;A Game of Thrones;George R.R. Martin;Fantasy
+381.;The Indian in the Cupboard;Lynne Reid Banks;Fantasy
+415.;Mrs. Frisby and the Rats of NIMH;Robert C. O'Brien;Fantasy
+419.;The Once and Future King;T. H. White;Fantasy
+432.;The Grey King;Susan Cooper;Fantasy
+445.;The Gunslinger;Stephen King;Fantasy
+450.;Inkspell;Cornelia Funke;Fantasy
+464.;The Amber Spyglass;Philip Pullman;Fantasy
+495.;The Sea of Monsters;Rick Riordan;Fantasy
+26.;The Three Musketeers;Alexandre Dumas;Historical
+28.;War and Peace;Leo Tolstoy;Historical
+43.;The Last of the Mohicans;James Fenimore Cooper;Historical
+49.;The Count of Monte Cristo;Alexandre Dumas;Historical
+63.;The Prince and the Pauper;Mark Twain;Historical
+77.;Gone with the Wind;Margaret Mitchell;Historical
+84.;Doctor Zhivago;Boris Leonidovich Pasternak;Historical
+121.;Beloved;Toni Morrison;Historical
+144.;The Idiot;Fyodor Dostoyevsky;Historical
+193.;The Book Thief;Markus Zusak;Historical
+198.;Roll of Thunder, Hear My Cry;Mildred D. Taylor;Historical
+199.;Death Comes for the Archbishop;Willa Cather;Historical
+214.;Little House In the Big Woods;Laura Ingalls Wilder;Historical
+224.;Memoirs of a Geisha;Arthur Golden;Historical
+230.;Lorna Doone;R.D. Blackmore;Historical
+231.;Johnny Tremain;Esther Forbes;Historical
+266.;Number the Stars;Lois Lowry;Historical
+316.;The Clan of the Cave Bear;Jean M. Auel;Historical
+344.;The Man In the Iron Mask;Alexandre Dumas;Historical
+389.;Shirley;Charlotte Brontë;Historical
+390.;Bud, Not Buddy;Christopher Paul Curtis;Historical
+403.;The Black Arrow: A Tale of the Two Roses;Robert Louis Stevenson;Historical
+437.;These Happy Golden Years;Laura Ingalls Wilder;Historical
+460.;Orlando;Virginia Woolf;Historical
+462.;Little Town on the Prairie;Laura Ingalls Wilder;Historical
+473.;Rob Roy;Walter Scott;Historical
+476.;Kenilworth;Walter Scott;Historical
+480.;Call It Courage;Armstrong Sperry;Historical
+494.;The Naked and the Dead;Norman Mailer;Historical
+19.;Frankenstein, or, the Modern Prometheus;Mary Shelley;Horror
+245.;The Phantom of the Opera;Gaston Leroux;Horror
+459.;Dreamcatcher;Stephen King;Horror
+109.;The Hound of the Baskervilles;Arthur Conan Doyle;Mystery/Detective
+207.;Murder on the Orient Express;Agatha Christie;Mystery/Detective
+243.;The Power and the Glory;Graham Greene;Mystery/Detective
+251.;The Curious Incident of the Dog In the Night-Time;Mark Haddon;Mystery/Detective
+279.;And Then There Were None;Agatha Christie;Mystery/Detective
+297.;The Pelican Brief;John Grisham;Mystery/Detective
+377.;The Murder of Roger Ackroyd;Agatha Christie;Mystery/Detective
+409.;The Westing Game;Ellen Raskin;Mystery/Detective
+442.;The No. 1 Ladies' Detective Agency;Alexander McCall Smith;Mystery/Detective
+86.;Nineteen Eighty-Four;George Orwell;Political
+152.;Cry, The Beloved Country;Alan Paton;Political
+216.;Germinal;Émile Zola;Political
+228.;All the King's Men;Robert Penn Warren;Political
+339.;Barnaby Rudge;Charles Dickens;Political
+342.;The Camel Club;David Baldacci;Political
+356.;The Quiet American;Graham Greene;Political
+38.;Anna Karenina;Leo Tolstoy;Romance
+89.;Persuasion;Jane Austen;Romance
+90.;Mansfield Park;Jane Austen;Romance
+93.;Far from the Madding Crowd;Thomas Hardy;Romance
+130.;Rebecca;Daphne Du Maurier;Romance
+132.;Twilight;Stephenie Meyer;Romance
+191.;Adam Bede;George Eliot;Romance
+212.;An American Tragedy;Theodore Dreiser;Romance
+235.;Cannery Row;John Steinbeck;Romance
+300.;Like Water for Chocolate;Laura Esquivel;Romance
+347.;Dear John;Nicholas Sparks;Romance
+348.;Cold Mountain;Charles Frazier;Romance
+388.;Daughter of Fortune;Isabel Allende;Romance
+405.;The Choice;Nicholas Sparks;Romance
+407.;A Walk to Remember;Nicholas Sparks;Romance
+427.;The Wings of the Dove;Henry James;Romance
+436.;The Lucky One;Nicholas Sparks;Romance
+463.;Nights in Rodanthe;Nicholas Sparks;Romance
+497.;Vision in White;Nora Roberts;Romance
+73.;Fahrenheit 451;Ray Bradbury;Science Fiction
+108.;A Wrinkle in Time;Madeleine L'Engle;Science Fiction
+139.;The Giver;Lois Lowry;Science Fiction
+197.;Catching Fire;Suzanne Collins;Science Fiction
+244.;A Clockwork Orange;Anthony Burgess;Science Fiction
+246.;The Martian Chronicles;Ray Bradbury;Science Fiction
+252.;The Mysterious Island;Jules Verne;Science Fiction
+264.;Atlas Shrugged;Ayn Rand;Science Fiction
+408.;The Maze Runner;James Dashner;Science Fiction
+430.;Jurassic Park;Michael Crichton;Science Fiction
+160.;Angels & Demons;Dan Brown;Thrillers
+306.;The Brethren;John Grisham;Thrillers
+315.;The Testament;John Grisham;Thrillers
+324.;Gone Girl;Gillian Flynn;Thrillers
+341.;The Broker;John Grisham;Thrillers
+362.;Cross Country;James Patterson;Thrillers
+374.;The Last Juror;John Grisham;Thrillers
+384.;The Summons;John Grisham;Thrillers
+392.;The Street Lawyer;John Grisham;Thrillers
+401.;The Partner;John Grisham;Thrillers
+443.;Worst Case;James Patterson;Thrillers
+475.;Alex Cross's Trial;James Patterson;Thrillers
+492.;The Associate;John Grisham;Thrillers
+118.;Catch-22;Joseph Heller;War
