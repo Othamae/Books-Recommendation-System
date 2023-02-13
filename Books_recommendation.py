@@ -4,7 +4,7 @@ from Linkedlist import LinkedList
 #Create a list with all genres from CSV file
 def genres():
     genre=[]
-    with open(r"E:\TATA PROYECTOS\Proyecto libros\PROJECT BOOKS\Libros resumidos en csv.csv") as file:
+    with open(r"Libros resumidos en csv.csv") as file:
         next(file)
         for row in file:
             row = row.rstrip()
@@ -16,7 +16,7 @@ def genres():
 #Create a list of list with books information (Tittle, author, genre) from CSV file
 def books():
     all_books=[]
-    with open(r"E:\TATA PROYECTOS\Proyecto libros\PROJECT BOOKS\Libros resumidos en csv.csv") as file:
+    with open(r"Libros resumidos en csv.csv") as file:
         next(file)
         for row in file:
             row = row.rstrip()
@@ -29,7 +29,7 @@ def books():
 def get_genre():
     list_of_genre= LinkedList()
     genre= []
-    with open(r"E:\TATA PROYECTOS\Proyecto libros\PROJECT BOOKS\Libros resumidos en csv.csv") as file:
+    with open(r"Libros resumidos en csv.csv") as file:
         next(file)
         for row in file:
             row = row.rstrip()
@@ -96,9 +96,9 @@ while len(selected_genre) == 0:
     if len(matching_types)==1:
         select_type = str(input(
             "\nThe only matching type for the specified input is " + matching_types[0].upper() + ". \nDo you want to look at " +
-            matching_types[0].upper() + " books? Enter y for yes and n for no\n")).lower()
+            matching_types[0].upper() + " books? Enter Y/N \n")).lower()
         
-        if select_type == "y":
+        if select_type == "y" or select_type== "Y":
             selected_genre= matching_types[0]
             print("Selected book genre: "+ selected_genre.upper())
             book_list_head = books_list.get_head_node()            
@@ -115,8 +115,8 @@ while len(selected_genre) == 0:
                 book_list_head = book_list_head.get_next_node()
 
             # Ask user if they would like to search for other types of books
-            repeat_loop = str(input("\nDo you want to find other books? Enter y for yes and n for no.\n")).lower()
-            if repeat_loop == 'y':
+            repeat_loop = str(input("\nDo you want to find other books? Enter Y/N \n")).lower()
+            if repeat_loop == 'y'or repeat_loop=='Y':
                 selected_genre = ""   
 
 print("HAPPY READING!!")
